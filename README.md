@@ -1,5 +1,5 @@
 # Assignment - P01
-####This program reads data from a JSON file and stores it in a vector of Person structs. The data is then shuffled to maintain the structure of a binary search tree (BST) and inserted into both a BST and linked list. The program provides various methods for searching the data based on different keys and data types
+###This program reads data from a JSON file and stores it in a vector of Person structs. The data is then shuffled to maintain the structure of a binary search tree (BST) and inserted into both a BST and linked list. The program provides various methods for searching the data based on different keys and data types
 
 - To store the data, the Person struct was defined to contain all fields that the JSON contains.
 - The data was converted to Person objects and stored in a vector after being read from JSON
