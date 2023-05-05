@@ -1,4 +1,4 @@
-# Assignment - P02
+# Assignment - P03
 ## A trie is a tree-like data structure used for efficient string searching. In this program, a trie is built using the words in a dictionary.txt file. The time complexity of building the trie is O(n * k), where n is the number of words in the dictionary and k is the length of the longest word.
 
 - Once the trie is built, the program allows the user to enter a word character by character and displays auto-suggestions for the entered word in real-time, without the need to press enter.
